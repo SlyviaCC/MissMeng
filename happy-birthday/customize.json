@@ -1,0 +1,23 @@
+{
+  "greeting": "Hello~",
+  "name": "小孟同学!",
+  "greetingText": "不知不觉你又长大了哟~ 🎉",
+  "wishText": "希望我永远伴你左右,陪你岁岁年年 ;)",
+  "imagePath": "img/mia.jpg",
+  "text1": "It's your birthday!!!  祝你生日快乐!!! :D",
+  "textInChatBox": "Happy birthday to you!! 饱饱! ",
+  "sendButtonLabel": "Send",
+  "text2": "就先酱紫,掰掰!",
+  "text3": "开玩笑的,嘿~",
+  "text4": "还做了一点special的东西!",
+  "text4Adjective": "special",
+  "text5Entry": "给,",
+  "text5Content": "这个最 Special 的饱",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, 可以开始期待你的小礼物了哟.)",
+  "replayText": "或者点这里再看一遍~",
+  "outroSmiley": ":)"
+}
